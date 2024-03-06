@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @luismarioagreda
 - 👀 I’m interested in Software development and Data Analysis
-- 🌱 I’m currently learning C++ and Javascript
+- 🌱 I’m currently learning Python and React
 - 📫 How to reach me:
 -   📧 Email: luis.mario.agreda@outlook.com
 -   🖇️ Linkedin: www.linkedin.com/in/luismarioagreda/
