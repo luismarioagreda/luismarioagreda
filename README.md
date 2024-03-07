@@ -10,7 +10,7 @@
 
 ### Connect with me:
 
-- 📫 How to reach me: **luis.mario.agreda@hotmail.com**
+- 📫 How to reach me: **luis.mario.agreda@outlook  .com**
 
 [![Email](https://img.shields.io/badge/Email-%23D14836.svg?&style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:luis.mario.agreda@outlook.com)
 [![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white)](https://github.com/luismarioagreda)
