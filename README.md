@@ -4,10 +4,12 @@
 
 ### Connect with me:
 
-[![Email](https://img.shields.io/badge/Email-%23333.svg?&style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:luis.mario.agreda@hotmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white)](https://github.com/luismarioagreda)
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luismarioagreda/)
-![Profile Views](https://komarev.com/ghpvc/?username=luismarioagreda&label=Profile%20views&color=0e75b6&style=flat)
+[![Email](https://img.shields.io/badge/Email-%23333.svg?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:luis.mario.agreda@hotmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/luismarioagreda)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luismarioagreda/)
+[![GitHub stars](https://img.shields.io/github/stars/luismarioagreda?color=yellow&style=for-the-badge&labelColor=darkgreen&logo=star)](https://github.com/luismarioagreda?tab=repositories&sort=stargazers)
+[![GitHub followers](https://img.shields.io/github/followers/luismarioagreda?color=blue&style=for-the-badge&logo=github&label=Follow)](https://github.com/luismarioagreda)
+![Profile Views](https://komarev.com/ghpvc/?username=luismarioagreda&label=Profile%20views&color=blue&style=flat)
 
 - 🌱 I’m currently learning **Python and React**
 
