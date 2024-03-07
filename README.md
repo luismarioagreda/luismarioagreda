@@ -1,6 +1,6 @@
 # Hi 👋, I'm Luis Agreda
 
-### A passionate frontend developer from Canada
+### A passionate software developer from Canada
 
 ![Profile Views](https://komarev.com/ghpvc/?username=luismarioagreda&label=Profile%20views&color=0e75b6&style=flat)
 
