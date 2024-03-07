@@ -1,8 +1,8 @@
 # Hi 👋, I'm Luis Agreda
 
-### A passionate software developer from Canada
+> A passionate software developer from Canada
 
-#### Connect with me:
+### Connect with me:
 
 [![Email](https://img.shields.io/badge/Email-%23333.svg?&style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:luis.mario.agreda@hotmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white)](https://github.com/luismarioagreda)
