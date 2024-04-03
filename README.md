@@ -1,6 +1,6 @@
 # Hi 👋, I'm Luis Agreda
 
-> A passionate software developer from Canada
+> A passionate Software Developer from Canada
 
 ### Connect with me:
 
