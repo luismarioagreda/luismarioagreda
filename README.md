@@ -10,7 +10,7 @@
 [![GitHub followers](https://img.shields.io/github/followers/luismarioagreda?color=blue&style=for-the-badge&logo=github&label=Follow)](https://github.com/luismarioagreda)
 ![Profile Views](https://komarev.com/ghpvc/?username=luismarioagreda&label=Profile%20views&color=blue&style=flat)
 
-- 🌱 I’m currently learning **Python and React**
+- 🌱 I’m currently learning **ML in Python**
 
 
 ### Languages and Tools:
